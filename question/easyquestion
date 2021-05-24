@@ -1,0 +1,21 @@
+Python DataTypes
+
+If we try to access the item outside the list index, then what type of error it may give ?
+List is not defined
+List index out of range       *
+List index out of bound
+No error
+
+
+In which of the following data type, duplicate items are not allowed ?
+list
+set    *
+dictionary
+None of the above
+
+
+In which data type, indexing is not valid ?
+list
+string
+dictionary           *
+None of the above
